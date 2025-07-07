@@ -1,4 +1,4 @@
-"random_quotes_fcc" 
+# random_quotes_fcc
 </br> Das hier ist mein Versuch für die Challenge von Free Code Camp zu Front End Development libraries.
 </br> https://www.freecodecamp.org/learn/front-end-development-libraries/
 </br> Link zu meinem Versuch: https://nima279.github.io/random_quotes_fcc/
